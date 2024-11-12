@@ -8,7 +8,9 @@ This repository contain the Tokyo Night color scheme for Everything. ***Mind tha
 
 ## Installation
 
-We can install the theme by copying the `Everything.ini` file into the Everything's installation directory. If you can't find the directory, simply use Everything to search for `Everything.ini` and open the resulting directory in a file manager.
+We can install the theme by copying the `Everything.ini` file into the Everything's installation directory. The default directory is `C:\Program Files\Everything`.
+
+If you can't find the directory, simply use Everything to search for `Everything.ini` and open the resulting directory in a file manager.
 
 ## Contribute
 
