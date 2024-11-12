@@ -14,4 +14,4 @@ If you can't find the directory, simply use Everything to search for `Everything
 
 ## Contribute
 
-Feel free to contribute enhacenments.
+Feel free to contribute enhancements.
